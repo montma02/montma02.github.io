@@ -1,0 +1,15 @@
+   body { 
+        background-color: pink;
+      }
+      .complete{
+        text-decoration: line-through;
+      }
+      .high {
+        color: red;
+      }
+      .med {
+        color: orange;
+      }
+      .low {
+        color: gray;
+      }
