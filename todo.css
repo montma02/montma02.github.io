@@ -3,13 +3,18 @@
       }
       .complete{
         text-decoration: line-through;
+        background-color: cyan;
       }
       .high {
         color: red;
+        background-color: white;
       }
       .med {
         color: orange;
+        background-color: brown;
       }
       .low {
         color: gray;
+        background-color: black;
       }
+   
