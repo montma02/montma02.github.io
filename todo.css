@@ -17,4 +17,7 @@
         color: gray;
         background-color: black;
       }
-   
+   section{
+         height: 200 px;
+         width: 350;
+   }
