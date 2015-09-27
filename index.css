@@ -6,10 +6,10 @@ nav {
   top: 0;
 }
 nav li:hover {
-  background-color: cyan;
+  color: rgb(204, 102, 0);
 }
 body {
-  background-color: cyan;
+  background-color: rgb(204, 102, 0);
   margin-top: 40px;
   border: 5px solid blue;
 }
@@ -25,13 +25,13 @@ footer{
 .section {
   float: left;
   width: 50%;
-  background-color: rgb(255, 0, 255);
+  background-color: rgb(204, 102, 0);
   height: 400px;
 }
 .section2 {
   float: right;
   width: 50%;
-  background-color: rgb(102, 255, 51);
+  background-color: rgb(204, 102, 0);
   height: 400px;
   text-align: center;
 }
