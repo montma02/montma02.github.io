@@ -4,8 +4,11 @@ nav {
   width: "100%";
 }
 body {
-  background-color: lightpink;
+  background-color: cyan;
   margin-top: 40px;
+}
+h1 {
+  text-align: center;
 }
 footer{
   text-color: white;
@@ -23,4 +26,5 @@ footer{
   width: 50%;
   background-color: rgb(102, 255, 51);
   height: 400px;
+  text-align: center;
 }
