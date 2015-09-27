@@ -1,5 +1,10 @@
 #list {
   display: inline;
+  position: fixed;
+  background-color: lightblue;
+}
+body {
+  margin-top: 40px;
 }
 footer{
   clear: both;
