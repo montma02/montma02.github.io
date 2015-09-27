@@ -16,9 +16,11 @@ footer{
   float: left;
   width: 50%;
   background-color: rgb(255, 0, 255);
+  height: 400px;
 }
 .section2 {
   float: right;
   width: 50%;
   background-color: rgb(102, 255, 51);
+  height: 400px;
 }
