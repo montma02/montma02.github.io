@@ -35,6 +35,10 @@ footer{
   text-align: center;
 }
 div {
-  display: inline;
   text-align: center;
 }
+.li {
+  display: inline;
+  color: white;
+}
+
