@@ -18,7 +18,7 @@ h1 {
 footer{
   color: white;
   clear: both;
-  background-color: black;
+  background-color: rgb(181, 108, 108);
   border: 5px rgb(181, 108, 108);
   position:absolute;
   bottom:0;
