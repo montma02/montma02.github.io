@@ -3,6 +3,7 @@ nav {
   clear: both;
   width: "100%";
   border: 5px solid blue;
+  top: 0;
 }
 nav li:hover {
   background-color: cyan;
