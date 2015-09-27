@@ -34,4 +34,7 @@ footer{
   height: 400px;
   text-align: center;
 }
-
+div {
+  display: inline;
+  text-align: center;
+}
