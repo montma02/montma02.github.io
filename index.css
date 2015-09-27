@@ -1,3 +1,7 @@
 #list {
   display: inline;
 }
+footer{
+  clear: both;
+  background-color: blue;
+}
