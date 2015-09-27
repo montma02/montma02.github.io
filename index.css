@@ -3,9 +3,9 @@ nav {
   clear: both;
   width: "100%";
   border: 5px rgb(255, 206, 157);
-  margin: -20px;
+  margin: -40px;
   color: white;
-  height: 60px;
+  height: 100px;
 }
 body {
   background-color: rgb(204, 102, 0);
