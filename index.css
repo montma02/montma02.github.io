@@ -30,6 +30,7 @@ footer{
   width: 50%;
   background-color: rgb(204, 102, 0);
   height: 400px;
+  color: white;
 }
 .section2 {
   float: right;
@@ -37,6 +38,7 @@ footer{
   background-color: rgb(204, 102, 0);
   height: 400px;
   text-align: center;
+  color: white;
 }
 div {
   text-align: center;
