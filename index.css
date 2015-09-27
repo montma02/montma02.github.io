@@ -5,6 +5,7 @@ nav {
   border: 5px rgb(255, 206, 157);
   margin: -20px;
   color: white;
+  height: 60px;
 }
 body {
   background-color: rgb(204, 102, 0);
