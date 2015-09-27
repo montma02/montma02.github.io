@@ -3,8 +3,7 @@ nav {
   clear: both;
   width: "100%";
   border: 5px rgb(255, 206, 157);
-  margin-top: -10px;
-  height: 80px;
+  position: absolute;
   color: white;
 }
 body {
