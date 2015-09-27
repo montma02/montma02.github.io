@@ -16,13 +16,13 @@ h1 {
   text-align: center;
 }
 footer{
-  text-color: white;
+  color: white;
   clear: both;
   background-color: black;
   border: 5px solid blue;
 }
 .section {
-  float: right;
+  float: left;
   width: 50%;
   background-color: rgb(255, 0, 255);
   height: 400px;
