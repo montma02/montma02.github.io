@@ -8,6 +8,17 @@ body {
   margin-top: 40px;
 }
 footer{
+  text-color: white;
   clear: both;
   background-color: blue;
+}
+section {
+  float: left;
+  width: 50%;
+  background-color: lightgreen;
+}
+footer {
+  float: left;
+  width: 50%;
+  background-color: rgb(102, 255, 51);
 }
