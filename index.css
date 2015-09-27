@@ -2,7 +2,7 @@ nav {
   background-color: lightblue;
   clear: both;
   width: "100%";
-  border: 0px solid blue;
+  border: 5px solid blue;
 }
 nav li:hover {
   text-color: cyan;
@@ -10,7 +10,7 @@ nav li:hover {
 body {
   background-color: cyan;
   margin-top: 40px;
-  border: 0px solid blue;
+  border: 5px solid blue;
 }
 h1 {
   text-align: center;
@@ -19,17 +19,17 @@ footer{
   text-color: white;
   clear: both;
   background-color: black;
-  border: 0px solid blue;
+  border: 5px solid blue;
 }
 .section {
   float: left;
-  width: 50%;
+  width: 49%;
   background-color: rgb(255, 0, 255);
   height: 400px;
 }
 .section2 {
   float: right;
-  width: 50%;
+  width: 49%;
   background-color: rgb(102, 255, 51);
   height: 400px;
   text-align: center;
