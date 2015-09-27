@@ -5,7 +5,7 @@ nav {
   border: 5px solid blue;
 }
 nav li:hover {
-  text-color: cyan;
+  color: cyan;
 }
 body {
   background-color: cyan;
