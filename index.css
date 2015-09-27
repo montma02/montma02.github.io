@@ -2,15 +2,15 @@ nav {
   background-color: lightblue;
   clear: both;
   width: "100%";
-  border: 5px solid blue;
+  border: 0px solid blue;
 }
 nav li:hover {
-  background-color: cyan;
+  text-color: cyan;
 }
 body {
   background-color: cyan;
   margin-top: 40px;
-  border: 5px solid blue;
+  border: 0px solid blue;
 }
 h1 {
   text-align: center;
@@ -19,7 +19,7 @@ footer{
   text-color: white;
   clear: both;
   background-color: black;
-  border: 5px solid blue;
+  border: 0px solid blue;
 }
 .section {
   float: left;
