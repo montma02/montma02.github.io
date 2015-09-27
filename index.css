@@ -2,6 +2,8 @@ nav {
   display: inline;
   position: fixed;
   background-color: lightblue;
+  clear: both;
+  width: "100%";
 }
 body {
   margin-top: 40px;
