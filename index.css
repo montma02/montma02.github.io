@@ -4,6 +4,7 @@ nav {
   width: "100%";
   border: 5px rgb(255, 206, 157);
   margin-top: -10px;
+  height: 80px;
 }
 body {
   background-color: rgb(204, 102, 0);
