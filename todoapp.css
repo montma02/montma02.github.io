@@ -1,12 +1,10 @@
 
-   body { 
-        background-color: pink;
-      }
-   head {
-      text-align: center;
+   main {
+      margin-left: auto;
+      margin-right: auto;
    }
    section {
-      text-align: center;
+   
       height: 200px;
       width: 350px;
       background-color: cyan;
