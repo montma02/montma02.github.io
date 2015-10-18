@@ -13,6 +13,7 @@
       background-color: cyan;
    }
    footer {
+      display: inline;
       margin: auto;
       background-color: cyan;
       width: 1000px;
