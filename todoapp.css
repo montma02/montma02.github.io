@@ -4,7 +4,7 @@
       margin-right: auto;
    }
    section {
-   
+      margin: auto;
       height: 200px;
       width: 350px;
       background-color: cyan;
