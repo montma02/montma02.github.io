@@ -6,6 +6,9 @@
    h1 {
       text-align: center;
    }
+   h3 {
+      display: inline;
+   }
    section {
       margin: auto;
       height: 200px;
