@@ -1,8 +1,8 @@
 
   addTask = function() {
    document.querySelector("#tasklist")
-   newLi = document.createElement("li")
-   newLi.type = "checkbox"
+   newIn = document.createElement("input")
+   newIn.type = "checkbox"
    
    
     
