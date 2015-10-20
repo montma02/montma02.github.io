@@ -15,9 +15,5 @@ addToDo = function() {
  ul.appendChild(newli);
 }
 checkItem = function() {
- //if (this.parentNode.className != "done"){
   this.parentNode.classList.add("done");
- //} else{
-  //this.parentNode.classlist.remove("done");
- //}
 }
