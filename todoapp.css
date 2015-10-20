@@ -7,18 +7,17 @@ main{
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
-  background-color: blue;
+  background-color: cyan;
 }
 section{
   text-align: center;
-  background-color: blue;
-  width: 75%;
+  background-color: cyan;
+  width: 500px;
   margin-right: auto;
   margin-left: auto;
 }
 .high{
   color: red;
-  text-decoration: bold;
 }
 .medium{
   color: yellow;
