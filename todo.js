@@ -5,7 +5,6 @@ addTask = function() {
  check = document.createElement("input");
  check.type = "checkbox";
  check.name = "done";
- check.onclick = checkItem;
  entry = document.querySelector("#word").value;
  litxt = document.createTextNode(entry)
  priority = document.querySelector("#priority").value;
@@ -13,7 +12,4 @@ addTask = function() {
  newli.appendChild(check);
  newli.appendChild(litxt);
  ul.appendChild(newli);
-}
-checkItem = function() {
-  this.parentNode.classList.add("done");
 }
