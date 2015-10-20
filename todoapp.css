@@ -1,22 +1,31 @@
-
-   main {
-      margin-left: auto;
-      margin-right: auto;
-   }
-   h1 {
-      text-align: center;
-   }
-   h3 {
-      display: inline;
-   }
-   section {
-      margin: auto;
-      height: 200px;
-      width: 350px;
-      background-color: cyan;
-   }
-   footer {
-      margin: auto;
-      background-color: cyan;
-      width: 1000px;
-   }
+header{
+  text-align: center;
+}
+main{
+  height: 500px;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  background-color: blue;
+}
+section{
+  text-align: center;
+  background-color: blue;
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.high{
+  color: red;
+  text-decoration: bold;
+}
+.medium{
+  color: yellow;
+}
+.low{
+  color: gray;
+}
+.done{
+  text-decoration: line-through;
+}
