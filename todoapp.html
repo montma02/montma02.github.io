@@ -4,17 +4,22 @@
         <link rel=stylesheet href=todoapp.css type=text/css>
     </head>
  <body>
-  <script type=text/javascript src=todo.js></script>
+     <script type=text/javascript src=todo.js></script>
+        
   <nav>
    <a href=index.html>Home</a>
   </nav>
+  
   <header>
    <h1>I'm kind of tired of making todo lists</h1>
   </header>
+  
   <main>
    <ul id=tdlist></ul>
   </main>
+  
   <section id=entry>
+      
    <label for="word">Enter Text</label>
    <input type="text" id="word">
    <select id="priority">
@@ -22,7 +27,7 @@
     <option>medium</option>
     <option>low</option>
    </select>
-   <button onclick="addToDo();">New</button>
+   <button onclick="addTask();">New</button>
   </section>
  </body>
 </html>
