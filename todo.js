@@ -1,15 +1,23 @@
 
-  addTask = function() {
-   document.querySelector("#tasklist")
-   newIn = document.createElement("input")
-   newIn.type = "checkbox"
-   li.appendChild("newIn")
-   inputid = document.querySelector("#inputid")
-   ul = document.querySelector("ul")
-   li = document.createElement("li")
-   task = document.createTextNode(inputid.value)
-   li.appendChild(task)
-   ul.appendChild(li)
-    
-  }
-
+addToDo = function() {
+ ul = document.querySelector("#tdlist")
+ newli = document.createElement("li");
+ check = document.createElement("input");
+ check.type = "checkbox";
+ check.name = "done";
+ check.onclick = checkItem;
+ entry = document.querySelector("#word").value;
+ litxt = document.createTextNode(entry)
+ priority = document.querySelector("#priority").value;
+ newli.className = priority;
+ newli.appendChild(check);
+ newli.appendChild(litxt);
+ ul.appendChild(newli);
+}
+checkItem = function() {
+ //if (this.parentNode.className != "done"){
+  this.parentNode.classList.add("done");
+ //} else{
+  //this.parentNode.classlist.remove("done");
+ //}
+}
