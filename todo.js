@@ -1,5 +1,5 @@
 
-addToDo = function() {
+addTask = function() {
  ul = document.querySelector("#tdlist")
  newli = document.createElement("li");
  check = document.createElement("input");
