@@ -5,7 +5,7 @@ addTask = function() {
  check = document.createElement("input");
  check.type = "checkbox";
  check.name = "done";
- checkbox.onclick = boxChecked;
+ 
  entry = document.querySelector("#word").value;
  litext = document.createTextNode(entry)
  priority = document.querySelector("#priority").value;
@@ -20,7 +20,4 @@ boxChecked = function() {
    } else {
     this.parentNode.classList.remove("done")
    }
-   // local Save(id of your ul as a string)
-   // resoreList(id of your UL as a string, boxChecked)
-   // <sript type="text/javascript"> window.onload = function() { restoreLi("taskList", boxChecked)</script>
 }
